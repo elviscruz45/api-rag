@@ -1,0 +1,12 @@
+langchain_community
+langchain
+pandas
+openai
+openpyxl
+fastapi
+uvicorn
+pyjwt
+sqlalchemy
+matplotlib
+openai-whisper
+supervision
